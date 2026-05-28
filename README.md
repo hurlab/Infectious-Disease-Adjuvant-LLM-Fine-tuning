@@ -10,11 +10,6 @@ Instruction-tuned language models were fine-tuned to output structured JSON cont
 
 Performance generally increased with model size, with Gemma 3 4B showing limited extraction performance (F1 = 50.0%). Notably, among compact models, Mistral 7B achieved the strongest performance (F1 = 76.9%), outperforming Qwen 2.5 7B (F1 = 64.0%) and slightly exceeding the 70B-parameter Llama 3.3 model (F1 = 73.7%). Analysis of the highest-performing model showed that the most frequently extracted adjuvants, including interferon-γ, cholera toxin and its B subunit, and aluminum-based formulations, closely matched the distribution observed in gold-standard annotations. Extracted evidence snippets predominantly described antibody induction, cytokine responses, mucosal immunity, and protection against challenge, showing strong alignment with curated evidence. Together, these results demonstrate that the framework enables scalable, evidence-grounded curation of adjuvant use and reported immune outcomes across infectious disease literature, and that well-optimized mid-scale language models can match or outperform substantially larger models.
 
-
-## Repository scope
-
-This maps manuscript workflow sections to code files.
-
 ## Corpus construction and normalization
 - `1.1. Analyze VIOLIN database_with LEO.ipynb`
 - `1.2. Replace References both with Ref ID and Name.ipynb`
