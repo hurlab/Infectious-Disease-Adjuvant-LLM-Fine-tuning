@@ -1,6 +1,6 @@
 # Infectious-Disease-Adjuvant-LLM-Fine-tuning
 
-This repository contains the code and metadata used to build the project for "Evidence-supported Extraction of Vaccine Adjuvants from Infectious Disease Literature Using Fine-tuned Large Language Models"
+This repository contains the code used to build the project for "Evidence-supported Extraction of Vaccine Adjuvants from Infectious Disease Literature Using Fine-tuned Large Language Models"
 
 ## Abstract
 
