@@ -78,7 +78,6 @@ Run in this sequence:
 
 Fine-tuned merged checkpoints are available on Hugging Face:
 
-- Gemma 3 4B: https://huggingface.co/RehanaHasin/gemma-3-4b-it-adjuvant-extractor
 - Qwen 2.5 7B: https://huggingface.co/RehanaHasin/qwen2.5-7b-instruct-adjuvant-extractor
 - Mistral 7B Instruct v0.3: https://huggingface.co/RehanaHasin/mistral-7b-instruct-v0.3-adjuvant-extractor
 - Llama 3.3 70B Instruct: https://huggingface.co/RehanaHasin/llama-3.3-70b-instruct-adjuvant-extractor
